@@ -20,17 +20,29 @@ The main goal is to strengthen SQL skills and prepare for technical interviews.
 
 ## 📂 Repository Structure
 ├── Oracle/
+
 │ ├── recyclable_and_low_fat_products.sql
+
 │ ├── find_customer_referee.sql
+
 │ ├── big_countries.sql
+
 │ └── ...
+
 │
+
 ├── PostgreSQL/
+
 │ ├── recyclable_and_low_fat_products.sql
+
 │ ├── find_customer_referee.sql
+
 │ ├── big_countries.sql
+
 │ └── ...
+
 │
+
 └── README.md
 
 ---
