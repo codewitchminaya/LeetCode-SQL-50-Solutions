@@ -21,11 +21,11 @@ The main goal is to strengthen SQL skills and prepare for technical interviews.
 ## 📂 Repository Structure
 ├── Oracle/
 
-│ ├── recyclable_and_low_fat_products.sql
+│ ├── 1757. Recyclable and Low Fat Products.sql
 
-│ ├── find_customer_referee.sql
+│ ├── 584. Find Customer Referee.sql
 
-│ ├── big_countries.sql
+│ ├── 595. Big Countries.sql
 
 │ └── ...
 
@@ -33,11 +33,11 @@ The main goal is to strengthen SQL skills and prepare for technical interviews.
 
 ├── PostgreSQL/
 
-│ ├── recyclable_and_low_fat_products.sql
+│ ├── 1757. Recyclable and Low Fat Products.sql
 
-│ ├── find_customer_referee.sql
+│ ├── 584. Find Customer Referee.sql
 
-│ ├── big_countries.sql
+│ ├── 595. Big Countries.sql
 
 │ └── ...
 
