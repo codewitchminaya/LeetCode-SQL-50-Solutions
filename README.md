@@ -110,7 +110,7 @@ This repository covers the following SQL concepts:
 ## 🔗 Source
 
 LeetCode Study Plan:  
-👉 https://leetcode.com/studyplan/top-sql-50/
+👉**https://leetcode.com/studyplan/top-sql-50/**
 
 ---
 
@@ -124,3 +124,8 @@ This repository is created for learning and practice purposes only.
 
 ⭐ If you find this repo useful, consider giving it a star  
 🤝 Contributions are welcome (**fork + pull request**)
+
+## 👩‍💻 Author
+
+Created with ❤️ by **@codewitchminaya**
+Feel free to connect and contribute!
